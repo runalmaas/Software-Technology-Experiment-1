@@ -2,7 +2,7 @@
 # Software Technology Experiment Assignment 2
 
 
-## Technical problems
+# Technical problems
 
 During the installation i found that working with terminals in windows can be very difficult. I had problems with the command
 > set CLASSPATH
@@ -14,15 +14,20 @@ and
 as they didnt seem to work. I still have no idea how i fixed it because it just started working without me doing anything special. I also tried using the given scripts that was supposed to do this automatically, but they did not work either. 
 
 
-## Database inspection
+# Database inspection
 
-### Experiment-1
+## __Experiment-1__
 
 There was no problems connecting to the databse using the ```java org.apache.derby.tools.ij``` command and doing the steps like this:
 
-![](https://scontent.fsvg2-1.fna.fbcdn.net/v/t1.15752-0/p280x280/118773055_1031352080619912_267030489629503377_n.png?_nc_cat=107&_nc_sid=b96e70&_nc_ohc=dPc-W-VDfM4AX8fgmkr&_nc_oc=AQlxb5y2zBwqwVMWguw-qu97UY8brMhlISLhv5x8LDwIUid5rpnTvZ0oz7MpgcwflX4&_nc_ht=scontent.fsvg2-1.fna&oh=eb6915140917954804ccf23469b257c6&oe=5F763594)
+![](https://cdn.discordapp.com/attachments/486595954582093827/750753919444975726/Untitled3452345.png)
 
-### Experiment-2
+With the example output from running the test followed by main (which prints the first name of every person returned by ```"select m from Person m"```):
+
+![](https://cdn.discordapp.com/attachments/486595954582093827/750754409234825246/unknown.png)
+
+
+## __Experiment-2__
 
 Doing the same as in [experiment-1](#experiment-1).
 
@@ -34,7 +39,7 @@ I implemented it using very basic code and the lombok library. A example output 
 
 ![](https://scontent.fsvg2-1.fna.fbcdn.net/v/t1.15752-9/118763634_600996587254987_2231878769238934403_n.png?_nc_cat=110&_nc_sid=b96e70&_nc_ohc=HBp7vcWmrvQAX-gziVC&_nc_ht=scontent.fsvg2-1.fna&oh=9e3df44cb94c6e70ac5dc2b7940623b2&oe=5F74E877)
 
-## Pending issues
+# Pending issues
 While I tried to do the vogella tutorial I got a problem with Entity Managers. 
 
 ![](https://scontent.fsvg2-1.fna.fbcdn.net/v/t1.15752-9/118709590_692925054657296_318132931294852922_n.png?_nc_cat=100&_nc_sid=b96e70&_nc_ohc=Q6eboZn0hdoAX98iExv&_nc_ht=scontent.fsvg2-1.fna&oh=3c1c94e575ba03ecd17b40ff0971be9d&oe=5F7681D7)
