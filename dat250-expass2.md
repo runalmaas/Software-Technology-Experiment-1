@@ -1,6 +1,7 @@
 
 # Software Technology Experiment Assignment 2
 
+During this second exercise I encountered alot of failures and problems with running code and setting up the Derby database to a point where I almost gave up. But after alot of problemsolving I came up with the following. 
 
 # Technical problems
 
