@@ -14,6 +14,26 @@ and
 as they didnt seem to work. I still have no idea how i fixed it because it just started working without me doing anything special. I also tried using the given scripts that was supposed to do this automatically, but they did not work either. 
 
 
+## Database inspection
+
+### Experiment-1
+
+There was no problems connecting to the databse using the ```java org.apache.derby.tools.ij``` command and doing the steps like this:
+
+![](https://scontent.fsvg2-1.fna.fbcdn.net/v/t1.15752-0/p280x280/118773055_1031352080619912_267030489629503377_n.png?_nc_cat=107&_nc_sid=b96e70&_nc_ohc=dPc-W-VDfM4AX8fgmkr&_nc_oc=AQlxb5y2zBwqwVMWguw-qu97UY8brMhlISLhv5x8LDwIUid5rpnTvZ0oz7MpgcwflX4&_nc_ht=scontent.fsvg2-1.fna&oh=eb6915140917954804ccf23469b257c6&oe=5F763594)
+
+### Experiment-2
+
+Doing the same as in [experiment-1](#experiment-1).
+
+![](https://scontent.fsvg2-1.fna.fbcdn.net/v/t1.15752-0/p480x480/118700656_313089599768923_8076000796560856623_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_ohc=KCB9ttHkmrUAX-nBxA7&_nc_ht=scontent.fsvg2-1.fna&oh=79df4eed8f2a78681b2c33756d33f34f&oe=5F73B6DA)
+
+I had no initial answer to this exercise so i can't tell if they correspond with what I would have answered.
+
+I implemented it using very basic code and the lombok library. A example output of the Person table using ```"select m from Person m"``` and automatic primary key generation would look like this:
+
+![](https://scontent.fsvg2-1.fna.fbcdn.net/v/t1.15752-9/118763634_600996587254987_2231878769238934403_n.png?_nc_cat=110&_nc_sid=b96e70&_nc_ohc=HBp7vcWmrvQAX-gziVC&_nc_ht=scontent.fsvg2-1.fna&oh=9e3df44cb94c6e70ac5dc2b7940623b2&oe=5F74E877)
+
 ## Pending issues
 While I tried to do the vogella tutorial I got a problem with Entity Managers. 
 
