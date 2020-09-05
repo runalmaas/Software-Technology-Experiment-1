@@ -20,7 +20,7 @@ and
 
 > set DERBY_INSTALL
 
-as they didnt seem to work. I still have no idea how i fixed it because it just started working without me doing anything special. I also tried using the given scripts that was supposed to do this automatically, but they did not work either. 
+as they didn't seem to work. I still have no idea how i fixed it because it just started working without me doing anything special. I also tried using the given scripts that was supposed to do this automatically, but they did not work either. 
 
 
 # Database inspection
