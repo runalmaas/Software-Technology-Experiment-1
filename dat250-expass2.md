@@ -1,7 +1,15 @@
 
 # Software Technology Experiment Assignment 2
 
+You can find my code here: 
+
+[Experiment-1](https://github.com/runalmaas/DAT250-Experiment-1-Application-using-JPA)
+
+[Experiment-2](https://github.com/runalmaas/DAT250-Experiment-2-Banking-Credit-Card-example-JPA)
+
+
 During this second exercise I encountered alot of failures and problems with running code and setting up the Derby database to a point where I almost gave up. But after alot of problemsolving I came up with the following. 
+
 
 # Technical problems
 
