@@ -35,6 +35,7 @@ With the example output from running the test followed by main (which prints the
 
 ![](https://cdn.discordapp.com/attachments/486595954582093827/750754409234825246/unknown.png)
 
+It would also be possible to do this in the terminal using SQL. This output would then contain all the information about the person, not just the name.
 
 ## __Experiment-2__
 
