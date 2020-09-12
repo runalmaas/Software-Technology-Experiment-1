@@ -13,7 +13,7 @@ Validation of download:
 
 <br/><br/>
 
-**### Experiment 1**
+### Experiment 1
 
 ---
 
