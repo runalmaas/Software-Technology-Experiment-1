@@ -10,7 +10,7 @@ Following the guide to the end of the sender part it is expected that a queue wi
 
 ![](img/rabbitmq_queue_list.png)
 
-Continuing and finnishing the reveiver file and runnning both sender and receiver i got this message from receiver:
+Continuing and finishing the receiver file and runnning both ```send.py``` and ```receive.py``` i got this message from receiver:
 
 ![](img/rabbitmq_received_message.png)
 
