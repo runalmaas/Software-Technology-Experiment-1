@@ -2,6 +2,8 @@
 
 This experiments gave an introduction to RabbitMQ and messaging systems. This included a basic "hello world!" of messaging, worker queues and Publish/Subscrib. I had no technical difficulties during the installation of RabbitMQ or the tutorials. 
 
+[My code can be found here](https://github.com/runalmaas/Software-Technology-Experiments/tree/master/rabbitMQ)
+
 ## Experiment 2: Hello World
 
 Following the guide to the end of the sender part it is expected that a queue with the name "hello" have one or more massages in it. In my case this was correct:
