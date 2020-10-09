@@ -22,12 +22,12 @@ Writing the code for both ```new_task``` and ```worker``` followed by running th
 
 ![](img/rabbitmq_worker.png)
 
-Note that i did run ```new_task``` several times.
+Note that I did run ```new_task``` several times.
 
 
 <br><br>
 ## Experiment 4: Topics
 
-Same as previous experiemnts I ran the code after finnishing both ```emit_log``` and ```receive_logs``` and got an output like this:
-
+Same as previous experiments I ran the code after finnishing both ```emit_log``` and ```receive_logs``` and got an output like this:
+![](img/rabbitmq_emit_log.png)
 ![](img/rabbitmq_receive_logs.png)
